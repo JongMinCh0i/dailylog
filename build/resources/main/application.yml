@@ -3,4 +3,4 @@ spring:
     name: dailylog
 
 server:
-  port: 8082
+  port: 8000
