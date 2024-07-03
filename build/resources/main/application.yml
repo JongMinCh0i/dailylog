@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dailylog
+
+server:
+  port: 8082
